@@ -1,1 +1,1 @@
-# AdapterDesingPatten
+# AdapterDesingPattern
